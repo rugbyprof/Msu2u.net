@@ -9,7 +9,7 @@
 
 <?php
 for($i=0;$i<100;$i++){
-echo "Website<br>";
+echo "Websites are really cool<br>";
 }
 ?>
 
